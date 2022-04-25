@@ -114,3 +114,6 @@ while x < jugadores:
 
 # Se llama la funcion del repartidor.
 _repartidor()
+
+#Prueba de git
+#print("Prueba de git")
